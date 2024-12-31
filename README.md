@@ -7,6 +7,6 @@ This repository contains code snippets for a course on Python programming for bi
 2. **Proteins:** *Crystallography, Ligand Binding Kinetics, Cytoskeletal Dynamics*
 3. **Neurons:** *Hodgkin-Huxley Membrane Potentials, Multi-Compartmental Models*
 4. **Neural Networks:** *Spiking Neural Networks, Percolation, fMRI Functional Connectivity*
-5. **Populations:** *Predator-Prey Dynamics, SIR Models, Contagion on Biological Networks*
+5. **Populations:** *Predator-Prey Dynamics, Food Webs, SIR Models, Network Contagion*
 7. **Evolution:** *Genetic Algorithms, Reinforcement Learning*
-8. **Radiation Biology:** *Cell Survival Models, DNA Damage and Repair, Dosimetry, Automatic Contouring, Synthetic CT*
+8. **Radiation Biology:** *Cell Survival Models, Organelle Damage and Repair, OAR Dosimetry*
